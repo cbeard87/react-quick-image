@@ -1,1 +1,1 @@
-module.exports = require('./dist/QuickImage');
+module.exports = require('./dist/index');

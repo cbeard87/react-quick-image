@@ -4,7 +4,7 @@ import React from 'react';
 import { shallow, mount, render } from 'enzyme';
 import { expect } from 'chai';
 
-import QuickImage from '../QuickImage';
+import QuickImage from '../react-quick-image';
 
 describe('<QuickImage />', () => {
   it('renders a .quick-image', () => {
