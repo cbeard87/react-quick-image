@@ -62,9 +62,9 @@ class ProfilePicture extends React.Component {
 [React QuickImage](http://codepen.io/cbeard/pen/WpYdZW) on [Codepen](http://codepen.io)
  
 ## Planned Features
-
+ 
 - [ ] Create functionality for customizing placeholder images *(i.e. darken, blur, greyscale)*
-- [ ] Ability to use to permanent image sources in production, while retaining current functionality
+- [ ] Ability to easily move to permanent image sources in production, while retaining current functionality
 
 ## License
 
