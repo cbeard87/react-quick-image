@@ -38,7 +38,8 @@ const CoverPhoto = (props) => (
   </div>
 );
  
-// ES6 Class Component
+/* ES6 Class Components
+When no values are passed to width and height, values default to 800 x 600.*/
  
 class ProfilePicture extends React.Component {
   constructor(props) {
@@ -48,7 +49,7 @@ class ProfilePicture extends React.Component {
   render() {
     return (
       <div>
-        <QuickImage width="200" height="200" find="cats" />
+        <QuickImage find="cats" />
       </div>
     );
   }
@@ -56,9 +57,11 @@ class ProfilePicture extends React.Component {
 
 ``` 
  
- Live Example:
+ **Live Example:**
+  
 <p data-height="265" data-theme-id="dark" data-slug-hash="WpYdZW" data-default-tab="js,result" data-user="cbeard" data-embed-version="2" data-pen-title="QuickImage React" class="codepen"><a href="http://codepen.io/cbeard/pen/WpYdZW/">QuickImage React</a> (<a href="http://codepen.io/cbeard">@cbeard</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+ 
 ## Planned Features
 
 - [ ] Create functionality for customizing placeholder images *(i.e. darken, blur, greyscale)*
