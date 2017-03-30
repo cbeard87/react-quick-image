@@ -59,8 +59,7 @@ class ProfilePicture extends React.Component {
  
  **Live Example:**
  
-<iframe height='265' scrolling='no' title='QuickImage React' src='//codepen.io/cbeard/embed/WpYdZW/?height=265&theme-id=dark&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/cbeard/pen/WpYdZW/'>QuickImage React</a> by Christopher Beard (<a href='http://codepen.io/cbeard'>@cbeard</a>) on <a href='http://codepen.io'>CodePen</a>.
-</iframe>
+[React QuickImage](http://codepen.io/cbeard/pen/WpYdZW) on [Codepen](http://codepen.io)
  
 ## Planned Features
 
